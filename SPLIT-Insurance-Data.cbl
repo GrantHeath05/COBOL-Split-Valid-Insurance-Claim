@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. A7SPLIT.
+       PROGRAM-ID. SPLIT.
 
       *-----------------------------------------------------------------
       * AUTHOR:  GRANT HEATH
@@ -292,4 +292,4 @@
                  REPLACE-OUT
                  RPT-OUT.
 
-       END PROGRAM A7SPLIT.
+       END PROGRAM SPLIT.
