@@ -1,8 +1,8 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. SPLIT.
-
+       AUTHOR. GRANT HEATH.
+       DATE-WRITTEN. 2026-04-16.
       *-----------------------------------------------------------------
-      * AUTHOR:  GRANT HEATH
       * PURPOSE: SPLIT VALID INSURANCE DATA INTO REPAIR/REPLACE DATA
       *          FILES AND GENERATE A SUMMARY COUNTS AND CONTROL TOTALS.
       *-----------------------------------------------------------------
